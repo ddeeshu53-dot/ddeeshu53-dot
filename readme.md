@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🚀 Web Developer | AI/ML Enthusiast<br>👨‍💻 3rd-year CSE student at AJIET<br>💡 Passionate about building modern web applications & exploring AI/ML<br>🔧 Specializing in WordPress, Shopify, and full-stack development<br>🤖 Learning and implementing AI/ML models in real-world applications
+🚀 Web Developer | AI/ML Enthusiast<br>👨‍💻 2nd-year CSE student at AJIET<br>💡 Passionate about building modern web applications & exploring AI/ML<br>🔧 Specializing in WordPress, Shopify, and full-stack development<br>🤖 Learning and implementing AI/ML models in real-world applications
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deeshu26) 
